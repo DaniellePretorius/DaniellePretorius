@@ -1,9 +1,32 @@
-<h1 align="center">Hi 👋, I'm Danielle</h1>
-<h3 align="center">Master's Student & Curiosity-seeker</h3>
+# Hi, I'm Danielle 👋
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+Interdisicplinary researcher exploring the intersection of work, data, and mental health systems. Also building personal projects and feeding my curiosity through self-paced learning in other domains.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+---
+
+## 🧠 About Me
+
+I’m currently a Master’s student in Health Innovation based in Japan, focusing on how employment systems and institutional structures shape mental health outcomes. 
+
+My work integrates:
+- Epidemiology  
+- Behavioural science  
+- Policy analysis  
+- Data science  
+
+I’m particularly interested in translating research into real-world impact.
+
+---
+
+## 🧩 Methodology & Tools
+
+- 📊 Survey-weighted regression  
+- 📈 Epidemiological data analysis
+- 1️⃣ Quantitative data analysis
+- 💵 Financial Statement Analysis
+- 📚 PRISMA-guided systematic reviews  
+- 🌍 Comparative policy analysis  
+
+**Tech stack:**
+```bash
+R | Python | Stata | SPSS | Excel | SQL
