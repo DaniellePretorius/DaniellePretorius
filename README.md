@@ -1,32 +1,47 @@
 # Hi, I'm Danielle 👋
+Data-focused analyst with a background in public health, working at the intersection of **data, behaviour, and decision-making systems**.
 
-Interdisicplinary researcher exploring the intersection of work, data, and mental health systems. Also building personal projects and feeding my curiosity through self-paced learning in other domains.
+## 📊 What I Do
+I use data to:
+- Identify patterns in complex systems  
+- Build statistical models and analytical workflows  
+- Translate analysis into clear, actionable insights
+  
+## 🧠 Skills
 
----
+**Analysis & Modelling**
+- Statistical analysis (regression, inference, hypothesis testing)  
+- Observational & survey data analysis  
+- Data cleaning and transformation  
 
-## 🧠 About Me
+**Tools**
 
-I’m currently a Master’s student in Health Innovation based in Japan, focusing on how employment systems and institutional structures shape mental health outcomes. 
+Python (pandas, numpy) | R (tidyverse) | Stata | SPSS | Excel | SQL
 
-My work integrates:
-- Epidemiology  
-- Behavioural science  
-- Policy analysis  
-- Data science  
+**Additional**
+* Data visualization (matplotlib, ggplot2)
+* Research design & causal reasoning
 
-I’m particularly interested in translating research into real-world impact.
+## 📁 Projects
+**🔹 Policy & Mental Health Analysis**
+* Structured and analysed multi-country datasets
+* Identified patterns in policy implementation and outcomes
 
----
+**🔹 Quantitative Data Analysis**
+* Applied regression models to real-world datasets
+* Interpreted outputs and communicated insights
 
-## 🧩 Methodology & Tools
+(More projects coming soon — actively building portfolio)
 
-- 📊 Survey-weighted regression  
-- 📈 Epidemiological data analysis
-- 1️⃣ Quantitative data analysis
-- 💵 Financial Statement Analysis
-- 📚 PRISMA-guided systematic reviews  
-- 🌍 Comparative policy analysis  
+## 📈 Currently Learning
+* Advanced Python for data analysis
+* End-to-end analytics workflows
+* BI tools and dashboarding
 
-**Tech stack:**
-```bash
-R | Python | Stata | SPSS | Excel | SQL
+## 🎯 Interests
+* Data Analyst / BI Analyst roles
+* Quantitative & financial analysis
+* Data-driven decision systems
+
+## ⚡ Fun Fact
+Based in Japan 🇯🇵 & navigating data, research, and daily life without an oven.
