@@ -92,12 +92,11 @@ Customer churn analysis using Python, SQL and Tableau, with revenue-at-risk esti
 <tr>
 <td>
 
-### 📊 &nbsp;Policy & Mental Health Analysis
-*(University Projects)*
+### 🧠 &nbsp;[Strategy & Market Analysis: Digital Health](https://github.com/DaniellePretorius/Strategy-Market-Analysis-Digital-Health)
 
-Structured and analysed multi-country datasets. Identified patterns in policy implementation and mental health outcomes across jurisdictions.
+Strategic analysis of Headspace Health examining digital mental health markets, customer segmentation, competitive positioning, AI governance, and growth opportunities using STP and SWOT frameworks.
 
-`R` &nbsp; `Stata`
+`Strategy` &nbsp; `Market Research` &nbsp; `Digital Health`
 
 </td>
 <td>
