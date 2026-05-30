@@ -71,7 +71,7 @@ I use data to identify patterns in complex systems, build statistical models and
 <tr>
 <td width="60%">
 
-### 🌿 &nbsp;[customer-churn-retention-strategy](https://github.com/DaniellePretorius/customer-churn-retention-strategy)
+### 🌿 &nbsp;[Customer Churn Retention Strategy](https://github.com/DaniellePretorius/customer-churn-retention-strategy)
 
 Customer churn analysis using Python, SQL and Tableau, with revenue-at-risk estimation and retention strategy recommendations. End-to-end pipeline from raw data to business insight.
 
