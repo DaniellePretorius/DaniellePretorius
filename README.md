@@ -8,15 +8,13 @@
 -->
 
 <div align="center">
-
 <!-- ░░ HEADER ░░ -->
-
 <img src="https://capsule-render.vercel.app/api?type=soft&color=D4E4CB&height=120&section=header&text=Danielle%20Pretorius&fontSize=42&fontColor=3D5238&fontAlignY=60&desc=she%2Fher%20·%20Tokyo%2C%20Japan&descSize=14&descAlignY=82&descColor=8A7A68" width="100%"/>
-
-
+<div align="center">
+<img src="https://raw.githubusercontent.com/DaniellePretorius/DaniellePretorius/main/banner.gif" width="100%"/>
+</div>
 </div>
 
----
 
 <div align="center">
 
